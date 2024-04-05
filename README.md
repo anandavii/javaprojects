@@ -16,6 +16,10 @@ Additionally it also demonstrate different types of constructors and their usage
 
 The Array List project demonstrates working with arrays and ArrayLists in Java. It features a class named `Number` that generates random numbers, stores them in an ArrayList, and performs various operations. Additionally, it includes a `NumberOperation` class with methods for calculating the total sum, average, highest, and lowest values in an array of numbers.
 
+### 3. Inheritance and Abstract Class
+
+The Inheritance and Abstract Class project explores inheritance and abstract classes in Java. It includes an abstract class `BankAccount` with methods for deposit, withdrawal, and service charges, along with a concrete class `SavingsAccount` that extends `BankAccount` and implements additional functionality for a savings account.
+
 ## Usage
 
 To use any of the projects in this repository, follow these steps:
