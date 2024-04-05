@@ -1,0 +1,11 @@
+///////////////////////////////////////////////////////////////////////
+// Description: This program creates an ArrayList and implements     //
+//        	total, average, highest and lowest function 	         //
+//                                                                   //
+// Assignment: Exercise 7.1                                          //
+// Course: ITMD-510-05                                               //
+// Date: 09/11/2023                                                  //
+//                                                                   //
+// Author: Abhishek Anand                                            //
+//                                                                   //
+///////////////////////////////////////////////////////////////////////
